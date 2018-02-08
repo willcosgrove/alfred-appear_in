@@ -1,0 +1,13 @@
+name: appear_in
+version: 0.1.0
+
+authors:
+  - Will Cosgrove <will@willcosgrove.com>
+
+targets:
+  appear_in:
+    main: src/appear_in.cr
+
+crystal: 0.23.1
+
+license: MIT
